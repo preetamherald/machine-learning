@@ -54,7 +54,7 @@ python-dateutil==2.8.0
 pywinpty==0.5.5
 PyYAML==5.1
 pyzmq==18.0.1
-scikit-learn==0.20.3
+scikit-learn==1.5.0
 scipy==1.2.1
 Send2Trash==1.5.0
 six==1.12.0
@@ -65,7 +65,7 @@ tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
-tornado==6.0.2
+tornado==6.4.1
 traitlets==4.3.2
 typed-ast==1.3.4
 wcwidth==0.1.7
