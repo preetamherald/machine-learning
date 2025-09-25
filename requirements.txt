@@ -23,7 +23,7 @@ jupyter-client==5.2.4
 jupyter-core==4.4.0
 jupyterlab==0.35.5
 jupyterlab-server==0.2.0
-Keras==2.2.4
+Keras==3.11.3
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.1.0
